@@ -31,4 +31,4 @@ cd calculadora-imc
 | 25 a < 30 | Sobrepeso |
 | 30 a < 35 | Obesidade Grau I |
 | 35 a < 40 | Obesidade Grau II (severo) |
-| >= a 40 | Obesidade Grau III (Mórbida) |
+| >= 40 | Obesidade Grau III (Mórbida) |
